@@ -1,0 +1,7 @@
+.DT_Store
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+build/
+
+.DS_Store
